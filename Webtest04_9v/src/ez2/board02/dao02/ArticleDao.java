@@ -79,4 +79,6 @@ public class ArticleDao {
 		}
 		return article;
 	}//private Article makeArticleFromResultSet(ResultSet rs, boolean readCount)
+	
+	
 }//public class ArticleDao
